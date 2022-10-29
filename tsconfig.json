@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "rootDir": "./src",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node"
+
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
